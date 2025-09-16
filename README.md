@@ -1,7 +1,9 @@
 <html>
   <head>
     <title> collarbration </title>
-    <style>body{fontstlye:arial;color:green;borderstyle:dotted double dotted double;}</style>
+    <style>
+      body{fontstlye:arial;color:green;borderstyle:dotted double dotted double;}
+    </style>
   </head>
   <body>
     <h1> BCA </h1>
