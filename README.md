@@ -7,8 +7,8 @@
   </head>
   <body>
     <h1> BCA </h1>
-    <p1>This is Rashmitha kiran from BCA section.</p1>
-    <p2>i want to collabrate with you so accept my invitation.</p2>
+    <p1>This is Rashmitha kiran from BCA section.</p1><br>
+    <p2>i want to collabrate with you so accept my invitation.</p2><br>
     <p3> lets do the work together</p3>
   </body>
 </html>
